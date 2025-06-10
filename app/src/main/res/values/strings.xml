@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">lab1Shihova</string>
+    <string name="app_name">Lab1Shihova</string>
+    <string name="hint_enter_age">Введите ваш возраст</string>
+    <string name="btn_check">Проверить</string>
 </resources>
